@@ -2235,5 +2235,5 @@ F 3 "" H 900 6675 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 7025 7075 0    79   ~ 0
-Group 10\nKristian Brudeli\nMartil Falang\nEirik Falck
+Group 10\nKristian Brudeli\nMartin Falang\nEirik Falck
 $EndSCHEMATC
